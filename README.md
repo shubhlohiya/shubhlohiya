@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 Here's how to reach me:  
 
 [<img align="left" alt="shubhlohiya.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="shubhlohiya@cse.iitb.ac.in | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
+[<img align="left" alt="shubhlohiya@gatech.edu | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
 [<img align="left" alt="shubhlohiya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="lohiya-shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://shubhlohiya.github.io
-[email]: mailto:shubhlohiya@cse.iitb.ac.in
+[email]: mailto:shubhlohiya@gatech.edu
 [twitter]: https://twitter.com/shubhlohiya
 [linkedin]: https://www.linkedin.com/in/lohiya-shubham
